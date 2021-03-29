@@ -1,0 +1,84 @@
+
+h1 {
+    color:rgb(231, 40, 72);
+text-align: center;
+font-size: 100px;
+text-shadow: -8px 0 black;
+font-family: 'Ranchers', cursive;
+
+
+}
+
+
+
+#number{
+    color:rgb(216, 11, 45);
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Ranchers', cursive;
+    text-shadow: -6px 0 rgba(58, 14, 1, 0.952);
+    margin-bottom:50px;
+    padding: 8px 14px;
+    background: white;
+    margin-left: 500px;
+    margin-right:500px;
+    border-bottom: 10px rgba(16, 7, 119, 0.945) solid;
+    border-left: 16px rgba(16, 7, 119, 0.945) solid;
+    
+    
+    }
+    
+        
+    
+    
+    html {
+    
+        background-color: rgb(8, 74, 196);
+    }
+    #increment {
+        outline: black 3px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration:none;
+        font: bold 39px Arial, Helvetica, sans-serif;
+        color: rgb(26, 2, 2);
+        padding: 8px 18px;
+        border: solid 5px black ;
+        
+        border-radius: 25px;
+        background: #f9fafa;
+        margin-left: 690px;
+         }
+
+         #decrement {
+        
+            outline: black 3px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration:none;
+            font: bold 40px Arial, Helvetica, sans-serif;
+            color: rgb(26, 2, 2);
+            padding:7px 22px;
+            border: solid 5px black ;
+            border-radius: 25px;
+            background: #f9fafa;
+            margin-left: 45px;
+            
+            }
+    
+    #increment:hover {color: white;
+    background:black;
+    font-size: 40px;
+    border: white solid 5px;
+    margin-right: -1px;
+    
+    
+}
+    #decrement:hover{color:white;
+    background: black;
+    font-size: 40px;
+    border: white solid 5px;
+    }
+    
+        
+    
